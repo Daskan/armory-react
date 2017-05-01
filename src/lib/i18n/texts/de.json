@@ -47,12 +47,12 @@
   },
   "users": {
     "name": "Benutzer",
-    "recentMatches": "Aktuelle Spiele",
-    "claimCta": "Claim",
-    "noApiKey": "Api key not set.",
-    "makePrimary": "Make primary api key.",
-    "primaryToken": "This is your primary api key, your user information will be sourced from this.",
-    "invalidToken": "Could not retrieve data from GW2, the api key was probably deleted from the ArenaNet account page.",
+    "recentMatches": "Letzten Spiele",
+    "claimCta": "Anmelden",
+    "noApiKey": "Kein API-Schlüssel eingerichtet.",
+    "makePrimary": "Setze den Haupt API-Schlüssel.",
+    "primaryToken": "Das ist dein Haupt API-Schlüssel. Alle Benutzer-Informationen kommen von ihm.",
+    "invalidToken": "Wir konnten keine Daten von GW2 beziehen. Stelle sicher das der API-Schlüssel nicht von der ArenaNet Account Seite gelöscht wurde.",
     "pvpStats": {
       "name": "PvP Statistiken",
       "unranked": "Nicht gewertet",
@@ -71,8 +71,8 @@
       "rating": "Rating"
     },
     "pvp": {
-      "favouriteClass": "Favourite Class",
-      "winLossAbbreviation": "W/L"
+      "favouriteClass": "Lieblings Klasse",
+      "winLossAbbreviation": "Siege/Niederlagen"
     }
   },
   "guilds": {
@@ -81,7 +81,7 @@
     "noGuild": "Keine Gilde",
     "claimed": "This guild has been claimed!",
     "unclaimed": "This guild hasn't been claimed yet, if you're the guild leader add an api key with the guilds permission!",
-    "motd": "Message of the day"
+    "motd": "Nachricht des Tages."
   },
   "characters": {
     "name": "Charaktere",
